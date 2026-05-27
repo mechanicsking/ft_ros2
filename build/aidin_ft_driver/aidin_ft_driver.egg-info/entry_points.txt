@@ -1,0 +1,8 @@
+[console_scripts]
+aidin_ft_ros2_node = aidin_ft_driver.aidin_ft_ros2_node:main
+data_collector_node = aidin_ft_driver.data_collector_node:main
+gravity_comp_arkit_node = aidin_ft_driver.gravity_comp_arkit_node:main
+gripper_ros2_node = aidin_ft_driver.gripper_ros2_node:main
+iphone_arkit_udp_node = aidin_ft_driver.iphone_arkit_udp_node:main
+record3d_ros2_pub = aidin_ft_driver.record3d_ros2_pub:main
+

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.log
+.env
+venv/
+.venv/
+*.h5
+*.db3
+*.bag
+*.zarr
+*.zip
+data/
+dataset/
+outputs/
